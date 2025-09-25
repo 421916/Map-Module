@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-fey-river",
+  "title": "Moonlight Maps - Fey River",
+  "description": "<p>This module provides the Fey River map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Fey River",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/fkq9zg964dikzu05czfac/module.json?rlkey=8ac7hzbilgmiksqjo13x265z0&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/cb52h7mg9tb5wdp6yezuy/moonlightmaps-fey-river.zip?rlkey=gdrt22dhvnad7fwzqatiohk9s&dl=1"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-nordic-throne",
+  "title": "Moonlight Maps - Nordic Throne",
+  "description": "<p>This module provides the Nordic Throne map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Nordic Throne",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/35wd20pwwycml59fx9hig/module.json?rlkey=dko5mmwpc3uxolybly9p6n8rj&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/8g1su4w3mzvtxagu1omnn/moonlightmaps-nordic-throne.zip?rlkey=uapxgi74zoblp5jzk5qqbzi07&dl=1"
+}

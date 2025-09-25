@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-forest-road",
+  "title": "Moonlight Maps - Forest Road",
+  "description": "<p>This module provides the Forest Road map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Forest Road",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/7crt99d2j0mc21g0y1w1h/module.json?rlkey=nagjislij3b8od32e2zqr8ygm&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/4cxbf1s5ejuz2c807t6dw/moonlightmaps-forest-road.zip?rlkey=dblvw6eattml8iwwp2ad8zs0y&dl=1"
+}

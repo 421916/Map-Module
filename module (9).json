@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-luxury-yacht",
+  "title": "Moonlight Maps - Luxury Yacht",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Luxury Yacht map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "name": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "name": "moonlight-maps-luxury-yacht",
+      "label": "Moonlight Maps - Luxury Yacht",
+      "path": "packs/moonlight-maps-luxury-yacht",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/6d5j0uc7hx6spjtm6kr8x/module.json?rlkey=zadck1g6nz7ez2c8l4xuyvu9p&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/5nbt7eiq7uwh1hncvn5fe/moonlight-maps-luxury-yacht.zip?rlkey=3yuw7ghlu6uounow6wmvcgh5i&dl=1"
+}

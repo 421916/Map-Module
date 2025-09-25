@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-swamp-path",
+  "title": "Moonlight Maps - Swamp Path",
+  "description": "<p>This module provides the Swamp Path map pack by Moonlight Maps. Maps are pre-configured with walls, dynamic lighting, and ambient sounds to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Swamp Path",
+      "path": "/packs/moonlight-maps-swamp-path.db",
+      "type": "Scene"
+    }
+  ],
+	"media":[
+		{
+			"type":"cover",
+			"link":"https://www.dropbox.com/s/179iyqskilxx3fp/Swamp%20Path.jpg?dl=1"
+		},
+		{
+			"type":"video",
+			"link":"",
+			"loop": true
+		}
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/vcmxkugfpr03x16/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/75v214mskomtbyf/moonlight-maps-swamp-path.zip?dl=1"
+}

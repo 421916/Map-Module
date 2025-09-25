@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-city-fountain",
+  "title": "Moonlight Maps - City Fountain",
+  "description": "<p>This module provides the City Fountain map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - City Fountain",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/dp38elcxs5z1kv6/City%20Fountain.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/xzi9geq9vkwclw0/module.json",
+  "download": "https://dl.dropbox.com/s/nscbwf0rlge4xtg/MoonlightMaps-CityFountain.zip"
+}

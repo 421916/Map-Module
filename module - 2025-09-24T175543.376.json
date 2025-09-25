@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-mountain-temple",
+  "title": "Moonlight Maps - Mountain Temple",
+  "description": "<p>This module provides the Mountain Temple map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Mountain Temple",
+      "path": "/packs/mountain-temple-updated.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/7taxqd0cpjakjo1/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/dsp26nkh1qipsh9/moonlightmaps-mountain-temple.zip?dl=1"
+}

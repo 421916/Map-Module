@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-dragon-castle",
+  "title": "Moonlight Maps - Dragon Castle",
+  "description": "<p>This module provides the Dragon Castle map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.5",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Dragon Castle",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/r8atdxemj30rvws/module.json",
+  "download": "https://dl.dropbox.com/s/ycq4w2jngb95s6g/Moonlight-DragonCastle.zip"
+}

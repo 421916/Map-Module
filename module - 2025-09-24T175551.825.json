@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-fey-forest",
+  "title": "Moonlight Maps - Fey Forest",
+  "description": "<p>This module provides the Fey Forest map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Fey Forest",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/98kj9zn91y2gdisbnws5r/module.json?rlkey=vx427e3hspu47b0f2ry5i9g43&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/jg8xzng9tavr1oerlcez1/moonlightmaps-fey-forest.zip?rlkey=sxogudbdb4xmzjojy8pc5edg5&dl=1"
+}

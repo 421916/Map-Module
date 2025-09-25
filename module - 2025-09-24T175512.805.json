@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-coastal-forest",
+  "title": "Moonlight Maps - Coastal Forest",
+  "description": "<p>This module provides the Coastal Forest map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Coastal Forest",
+      "path": "/Packs/moonlight-maps-coastal-forest.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/r8wuy3ey1a441p7/Coastal%20Forest.jpg?dl=0"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/ivbvfy2k3urdirb/module.json",
+  "download": "https://dl.dropbox.com/s/o0lc4m4lgpfnj6l/moonlight-coastal-forest.zip"
+}

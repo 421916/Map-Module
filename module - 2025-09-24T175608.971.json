@@ -1,0 +1,21 @@
+{
+  "name": "moonlight-maps-mountain-bridge",
+  "title": "Moonlight Maps - Mountain Bridge",
+  "description": "<p>A collection of free, ready-to-play fantasy maps by Moonlight Maps. All maps are pre-configured for Foundry VTT with walls, doors and light sources.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Mountain Bridge",
+      "path": "/packs/moonlight-maps-mountain-bridge.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/4r5oz9asg6l7abi/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/ew05dmj4hwacf1c/moonlight-maps-mountain-bridge.zip?dl=1"
+}

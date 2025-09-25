@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-city-street",
+  "title": "Moonlight Maps - City Street",
+  "description": "<p>This module provides the City Street map pack by Moonlight Maps. Maps are pre-configured with walls, dynamic lighting, and ambient sounds to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - City Street",
+      "path": "/packs/moonlight-maps-city-street.db",
+      "type": "Scene"
+    }
+  ],
+	"media":[
+		{
+			"type":"cover",
+			"link":"https://www.dropbox.com/s/jl2rl5tbce4xox1/City%20Street.jpg?dl=1"
+		},
+		{
+			"type":"video",
+			"link":"",
+			"loop": true
+		}
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/a9elnrev3213t58/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/vplvr8nqyly56jt/moonlight-maps-city-street.zip?dl=1"
+}

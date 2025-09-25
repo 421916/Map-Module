@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-lakeside-village",
+  "title": "Moonlight Maps - Lakeside Village",
+  "description": "<p>This module provides the Lakeside Village map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Lakeside Village",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/d16swp6fqw0p84yoe55vx/module.json?rlkey=nzirea708rgiu7eo8gps56gsp&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/3dlknqy9l1hjdfjqv7uek/moonlightmaps-lakeside-village.zip?rlkey=uhn5zgwhuqt6g8wjxzhkp0rso&dl=1"
+}

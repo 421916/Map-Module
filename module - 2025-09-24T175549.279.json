@@ -1,0 +1,21 @@
+{
+  "name": "moonlightmaps-dark-cavern",
+  "title": "Moonlight Maps - Dark Cavern",
+  "description": "<p>This module provides the Dark Cavern map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Dark Cavern",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/hnv2nnrriu72noq/module.json?dl=1",
+  "download": "https://www.dropbox.com/scl/fi/8mkze5smiz67lu50fks1d/MoonlightMaps-DarkCavern.zip?rlkey=0i8qyo6wjj91t7q41yfzo61ra&dl=1"
+}

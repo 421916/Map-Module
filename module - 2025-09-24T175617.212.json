@@ -1,0 +1,21 @@
+{
+  "name": "moonlight-maps-caravan-camp",
+  "title": "Moonlight Maps - Caravan Camp",
+  "description": "<p>This module provides the Caravan Camp map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Caravan Camp",
+      "path": "/packs/moonlight-maps-caravan-camp.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/tyoszczvyrubybj/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/50xw2adgspzwf7x/moonlight-maps-caravan-camp.zip?dl=1"
+}

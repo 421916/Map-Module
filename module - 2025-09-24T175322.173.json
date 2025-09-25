@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-cave-pool",
+  "title": "Moonlight Maps - Cave Pool",
+  "description": "<p>This module provides the Cave Pool map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.4",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Cave Pool",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/fmh2rx9ebs5zu68/module.json",
+  "download": "https://dl.dropbox.com/s/g0af1l9rzyiilgl/MoonlightMaps-CavePool.zip"
+}

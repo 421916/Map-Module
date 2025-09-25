@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-throne-room",
+  "title": "Moonlight Maps - Throne Room",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the Throne Room map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "name": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "name": "moonlight-maps-throne-room",
+      "label": "Moonlight Maps - Throne Room",
+      "path": "packs/moonlight-maps-throne-room",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/gexzy2pfchkk1t24i22gs/module.json?rlkey=6h7j1tpcqqeqrxoba4hcy70ub&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/o3183u6nau961d0y8v4pl/MoonlightMaps-ThroneRoom.zip?rlkey=ejgfdnqewaga6toll45oufluh&dl=1"
+}
