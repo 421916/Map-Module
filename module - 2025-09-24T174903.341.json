@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-castle-siege",
+  "title": "Moonlight Maps - Castle Siege",
+  "description": "<p>This module provides the Castle Siege map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Castle Siege",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/1djt2rp5eos9721iuemfp/module.json?rlkey=u7jnzixw9wnbwob2v20pci1g7&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/ntho420dz3x6zy87ylnrs/MoonlightMaps-CastleSiege.zip?rlkey=4j7t98kgh2odujr763vo99cbi&dl=1"
+}

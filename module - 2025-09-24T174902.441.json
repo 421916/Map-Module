@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-stables",
+  "title": "Moonlight Maps - Stables",
+  "description": "<p>This module provides the Stables map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Stables",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/3d8y43yipagqwfqi1kg5p/module.json?rlkey=zzrlduucrr025m4y9r5i7cnkw&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/4d18lbm4mxugfc5m94aup/MoonlightMaps-Stables.zip?rlkey=o07egzyf2k4c0t1ylypthoa3j&dl=1"
+}

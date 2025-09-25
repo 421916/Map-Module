@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-japanese-city-gate",
+  "title": "Moonlight Maps - Japanese City Gate",
+  "description": "<p>This module provides the Japanese City Gate map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Japanese City Gate",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/8inyx53xsw2yo5oqiob8l/module.json?rlkey=jroispaqqz94yic1k5uo1e68d&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/ebxh01ifsw2wtcocq5lzq/MoonlightMaps-JapaneseCityGate.zip?rlkey=n11ghzo5qtddfhxd55ojt48mc&dl=1"
+}

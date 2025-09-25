@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-broken-city-wall",
+  "title": "Moonlight Maps - Broken City Wall",
+  "description": "<p>This module provides the Broken City Wall map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Broken City Wall",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/mtiq6hnhziamyfz/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/4fmrzz0on55lx01/MoonlightMaps-BrokenCityWall.zip?dl=1"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-clifftop-castle",
+  "title": "Moonlight Maps - Clifftop Castle",
+  "description": "<p>This module provides the Clifftop Castle map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Clifftop Castle",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/l0wza6fw20vxp0x98avrn/module.json?rlkey=5y8ry3pbfxppw3m2q51oi15gz&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/d1w9vama7tq647zsgv183/MoonlightMaps-ClifftopCastle.zip?rlkey=sdqyj1hyhtpe8i7brq3uiq7pi&dl=1"
+}

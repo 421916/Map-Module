@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-cube-stacks",
+  "title": "Moonlight Maps - Cube Stacks",
+  "description": "<p>This module provides the Cube Stacks map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Cube Stacks",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/qy9du9wdk73dj27lleohc/module.json?rlkey=5ihw2y1utbkvwdru48nb41sj0&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/2fcp6cra51g0gyti3zxi1/MoonlightMaps-CubeStacks.zip?rlkey=3szcdsv86etc6fta5893xdbnr&dl=1"
+}

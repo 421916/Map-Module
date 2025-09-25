@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-army-camp",
+  "title": "Moonlight Maps - Army Camp",
+  "description": "<p>This module provides the Army Camp map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Army Camp",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/c1dw0ic43mw6tmvgamg8t/module.json?rlkey=hazgu2ijro4b70bd8f0wsiaui&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/k6pma27jcfngguaebkfb9/MoonlightMaps-ArmyCamp.zip?rlkey=257244ebewuvs1tzyelki7n7n&dl=1"
+}
