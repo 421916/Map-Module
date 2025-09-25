@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-living-quarters",
+  "title": "Moonlight Maps - Living Quarters",
+  "description": "<p>This module provides the Living Quarters map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Living Quarters",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/rhxa9tfjxr2zqa8/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/657pk8e7k001mq5/MoonlightMaps-LivingQuarters.zip?dl=1"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-hell-prison",
+  "title": "Moonlight Maps - Hell Prison",
+  "description": "<p>This module provides the Hell Prison map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Hell Prison",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/50ey0l44dc2lna67neu8p/module.json?rlkey=2s69kl2oy7rpqgeuiev6t43hj&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/1jdspj0lqph5x2k93wgxp/MoonlightMaps-HellPrison.zip?rlkey=fkmxi38xddirka6prdl63dypo&dl=1"
+}

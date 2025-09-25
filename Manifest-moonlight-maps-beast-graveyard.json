@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-beast-graveyard",
+  "title": "Moonlight Maps - Beast Graveyard",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Beast Graveyard map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-beast-graveyard",
+      "label": "Moonlight Maps - Beast Graveyard",
+      "path": "packs/moonlight-maps-beast-graveyard",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/h6s92wgigpvm3qubp5y89/module.json?rlkey=mjk3ehv2qeb0hpjfi9xeprygd&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/hzshmichgtbbynowwtvdm/MoonlightMaps-BeastGraveyard.zip?rlkey=r84mz99pynz7y1wg69lu0vytd&dl=1"
+}

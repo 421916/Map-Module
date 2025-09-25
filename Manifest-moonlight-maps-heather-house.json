@@ -1,0 +1,22 @@
+{
+  "id": "moonlight-maps-heather-house",
+  "title": "Moonlight Maps - Heather House",
+  "description": "<p>This module provides the Heather House map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Heather House",
+      "path": "/packs/moonlight-maps-heather-house.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/ma7qdfhtoomega5/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/iu9w5qbddsatygy/moonlight-maps-heather-house.zip?dl=1"
+}

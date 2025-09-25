@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-lonely-tor",
+  "title": "Moonlight Maps - Lonely Tor",
+  "description": "<p>This module provides the Lonely Tor map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Lonely Tor",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/30xwjpjgk2vk2s5bz7j34/module.json?rlkey=zakzk2ely5agxfcqfyx77arya&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/xws0hsfrhzn9mjwykicn1/MoonlightMaps-LonelyTor.zip?rlkey=5smy4rhdr4risppeimqnwyh82&dl=1"
+}

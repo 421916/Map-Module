@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-ruined-temple",
+  "title": "Moonlight Maps - Ruined Temple",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Ruined Temple map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-ruined-temple",
+      "label": "Moonlight Maps - Ruined Temple",
+      "path": "packs/moonlight-maps-ruined-temple",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/b6vmgap3enotmxnvahaju/module.json?rlkey=xazfvjclltlsagqmxpzoh9lg6&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/9rcqp3x9o741fk0629t1q/MoonlightMaps-RuinedTemple.zip?rlkey=42ktihus2oo2icepvx7wz1x0k&dl=1"
+}

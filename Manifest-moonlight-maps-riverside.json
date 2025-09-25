@@ -1,0 +1,22 @@
+{
+  "id": "moonlight-maps-riverside",
+  "title": "Moonlight Maps - Riverside",
+  "description": "<p>This module provides the Riverside map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Riverside",
+      "path": "/packs/moonlight-maps-riverside.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/32poo9dm5ifpr3e/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/bdgahokztipyy1x/moonlight-maps-riverside.zip?dl=1"
+}

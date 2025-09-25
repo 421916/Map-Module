@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-dragons-maw",
+  "title": "Moonlight Maps - Dragon's Maw",
+  "description": "<p>This module provides the Dragon's Maw map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Dragon's Maw",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/jppilja5e9ew5pf59itxv/module.json?rlkey=ou8qzz15tsmkwx19ph29dvxzf&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/2z8ugxxzh04meunjdcvi7/MoonlightMaps-DragonsMaw.zip?rlkey=e6atxm3zwg933aquh3h882y4w&dl=1"
+}

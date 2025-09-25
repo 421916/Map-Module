@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-ruined-throne",
+  "title": "Moonlight Maps - Ruined Throne",
+  "description": "<p>This module provides the Ruined Throne map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Ruined Throne",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/xnsepxaw37jm67v/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/ppe8pux61z56i2o/MoonlightMaps-RuinedThrone.zip?dl=1"
+}

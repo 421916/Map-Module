@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-mirror-world-portal",
+  "title": "Moonlight Maps - Mirror World Portal",
+  "description": "<p>This module provides the Mirror World Portal map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Mirror World Portal",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/ss8zcm0xf2y7u92/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/5yl0vx423x5rfig/MoonlightMaps-MirrorWorldPortal.zip?dl=1"
+}

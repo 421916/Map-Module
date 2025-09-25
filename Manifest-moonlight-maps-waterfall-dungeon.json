@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-waterfall-dungeon",
+  "title": "Moonlight Maps - Waterfall Dungeon",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Waterfall Dungeon map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-waterfall-dungeon",
+      "label": "Moonlight Maps - Waterfall Dungeon",
+      "path": "packs/moonlight-maps-waterfall-dungeon",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/d113og81yndd69qwjc5vv/module.json?rlkey=n55p7hk4o4kmi4fjeo6xgkq86&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/v9z7me18i758nvcpho4bb/moonlight-maps-waterfall-dungeon.zip?rlkey=r5fhqd45lkw63jfrmvvcutx58&dl=1"
+}

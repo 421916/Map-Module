@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-ruined-fishing-village",
+  "title": "Moonlight Maps - Ruined Fishing Village",
+  "description": "<p>This module provides the Ruined Fishing Village map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Ruined Fishing Village",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/ivmkoq4b40zqt06ds4p24/module.json?rlkey=x2tfdo6d43ymoqhwfgjd37sux&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/jhru8brp6ctk95k0epr00/MoonlightMaps-RuinedFishingVillage.zip?rlkey=k62mvuk01ohjcvlwzaujoutmz&dl=1"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "moonlight-maps-haunted-passage",
+  "title": "Moonlight Maps - Haunted Passage",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "<pre><code>This module provides the Haunted Passage map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</code></pre>",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "id": "moonlight-maps-haunted-passage",
+      "label": "Moonlight Maps - Haunted Passage",
+      "path": "packs/moonlight-maps-haunted-passage",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/m6sg8xz9i1otni0k6nm8q/module.json?rlkey=klsjxfqup2ji5i1tku4m2fz5q&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/7o83wyn3owhcms90dsyr4/moonlight-maps-haunted-passage.zip?rlkey=622309c6jkgfv8dnn770y21d4&dl=1"
+}

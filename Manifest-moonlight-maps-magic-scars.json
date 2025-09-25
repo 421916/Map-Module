@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-magic-scars",
+  "title": "Moonlight Maps - Magic Scars",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Magic Scars map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-magic-scars",
+      "label": "Moonlight Maps - Magic Scars",
+      "path": "packs/moonlight-maps-magic-scars",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/sio6hp1iugrk9o12jbpzk/module.json?rlkey=rgwxbq5erszmmg9ig97c9x7i7&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/96ot8jgpr0q5bgv4p7fnq/MoonlightMaps-MagicScars.zip?rlkey=pqlanf8nwsgahq9d5smk8aro5&dl=1"
+}

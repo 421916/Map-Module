@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-big-city-prison",
+  "title": "Moonlight Maps - Big City Prison",
+  "description": "<p>This module provides the Big City Prison map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Big City Prison",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/juou66cglpvrb1rztf897/module.json?rlkey=ljpe9cq92x2kfjb8s95seesr6&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/nm1sh88xaexxrxd10f9td/MoonlightMaps-BigCityPrison.zip?rlkey=s20pwhct6jpuz48wsjdqszqgf&dl=1"
+}

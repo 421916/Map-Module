@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-temple-bridge",
+  "title": "Moonlight Maps - Temple Bridge",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Temple Bridge map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-temple-bridge",
+      "label": "Moonlight Maps - Temple Bridge",
+      "path": "packs/moonlight-maps-temple-bridge",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/ndgwesw4buxlw7bgfdhj9/module.json?rlkey=h0m5s4dpejxl213o8f7mb4y55&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/hiqvfw5fnzhjg2n4zvhrs/MoonlightMaps-TempleBridge.zip?rlkey=91jj41opgtawq4nmsx0fvrre9&dl=1"
+}

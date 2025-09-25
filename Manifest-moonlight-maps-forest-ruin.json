@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-forest-ruin",
+  "title": "Moonlight Maps - Forest Ruin",
+  "description": "<p>This module provides the Forest Ruin map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Forest Ruin",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/awqgieo7edagkf7wl7u0r/module.json?rlkey=b32oz3sgg7n2oaezejm7qxny3&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/mbmlwmluxdh5cu3qwjit2/MoonlightMaps-ForestRuin.zip?rlkey=gr0mh25iwuzuh041mgnctitfb&dl=1"
+}

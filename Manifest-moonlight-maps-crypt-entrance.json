@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-crypt-entrance",
+  "title": "Moonlight Maps - Crypt Entrance",
+  "description": "<p>This module provides the Crypt Entrance map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Crypt Entrance",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/cbhaj5ujlc7n345a4fbzw/module.json?rlkey=wdy5iofp54y1c92o31l93tmvs&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/q2vv7d0pmuo4p8b80x0ej/MoonlightMaps-CryptEntrance.zip?rlkey=k54g6wualbdukgs7ntvk0wm6k&dl=1"
+}

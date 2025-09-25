@@ -1,0 +1,22 @@
+{
+  "id": "moonlightmaps-stone-bridge",
+  "title": "Moonlight Maps - Stone Bridge",
+  "description": "<p>This module provides the Stone Bridge map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Stone Bridge",
+      "path": "/packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/l4skdq7vnp4svamc98pzu/module.json?rlkey=tf9r84g8no3mrbmlp0aktdbsd&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/1yg5h92ulzrf32gfrpcvt/moonlightmaps-stone-bridge.zip?rlkey=tca5mst6m6d9mtpv5etlmsddh&dl=1"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-city-hospital",
+  "title": "Moonlight Maps - City Hospital",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the City Hospital map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-city-hospital",
+      "label": "Moonlight Maps - City Hospital",
+      "path": "packs/moonlight-maps-city-hospital",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/d0ahk13horz6jl1sfplbh/module.json?rlkey=tn7y3b6dyrcni3hw5qpa1b956&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/xqip5d00g4qcgbv9dvske/MoonlightMaps-CityHospital.zip?rlkey=b4isktdo7ykqsxdkb52emdtr8&dl=1"
+}

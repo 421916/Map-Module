@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-battle-bridge",
+  "title": "Moonlight Maps - Battle Bridge",
+  "description": "<p>This module provides the Battle Bridge map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Battle Bridge",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/xvtc23x4cqbvr0k51ovj0/module.json?rlkey=p31t4eit2g7mogajk49i355om&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/ju5gisqca2cxbl7gwdblm/MoonlightMaps-BattleBridge.zip?rlkey=vpjczrxdqnpguopvfrhuttdlp&dl=1"
+}

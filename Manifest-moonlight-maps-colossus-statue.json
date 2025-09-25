@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-colossus-statue",
+  "title": "Moonlight Maps - Colossus Statue",
+  "description": "<p>This module provides the Colossus Statue map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Colossus Statue",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/q7ea2df6m52yhtq/Colossus%20Statue.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/7klhkcfjhynezst/module.json",
+  "download": "https://dl.dropbox.com/s/4jso905ewca5eaj/MoonlightColossusStatue.zip"
+}

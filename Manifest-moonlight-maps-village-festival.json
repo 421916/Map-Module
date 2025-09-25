@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-village-festival",
+  "title": "Moonlight Maps - Village Festival",
+  "description": "<p>This module provides the Village Festival map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Village Festival",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/9pxyl1fgdg9bcp8/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/iw1y0udiixm6u2m/MoonlightMaps-VillageFestival.zip?dl=1"
+}

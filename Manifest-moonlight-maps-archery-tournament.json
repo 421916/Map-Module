@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-archery-tournament",
+  "title": "Moonlight Maps - Archery Tournament",
+  "description": "<p>This module provides the Archery Tournament map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Archery Tournament",
+      "path": "/packs/moonlight-maps-archery-tournament.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/lq831ujoz2v9urw/Archery%20Tournament.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/v9t8tdrio8x04wq/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/kmdycek4s5k5bys/moonlight-maps-archery-tournament.zip?dl=1"
+}

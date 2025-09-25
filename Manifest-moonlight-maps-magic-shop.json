@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-magic-shop",
+  "title": "Moonlight Maps - Magic Shop",
+  "description": "<p>This module provides the Magic Shop map pack by Moonlight Maps. Maps are pre-configured with walls, dynamic lighting, and ambient sounds to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Magic Shop",
+      "path": "/packs/moonlight-maps-magic-shop.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/1phlpsw9t1uia1v/Magic%20Shop.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/vwzudvdjb631z6j/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/vbk7zcg6osri1u2/moonlight-maps-magic-shop.zip?dl=1"
+}
