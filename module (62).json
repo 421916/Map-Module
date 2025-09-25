@@ -1,0 +1,32 @@
+{
+  "name": "moonlight-maps-lost-temple",
+  "title": "Moonlight Maps - Lost Temple",
+  "description": "<p>This module provides the Lost Temple map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Lost Temple",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/q02xodoeeyaoalwc6hdep/module.json?rlkey=5g5gwwkiw0l2e8ez0we3jt2pv&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/qidfiheh2t87ymecxohvt/MoonlightMaps-LostTemple.zip?rlkey=4482f3m0hrdjfm7x6890kuebe&dl=1"
+}

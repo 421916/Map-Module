@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-sundial",
+  "title": "Moonlight Maps - Sundial",
+  "description": "<p>This module provides the Sundial map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Sundial",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/vn21sm6kuub1v7wt79iku/module.json?rlkey=ikqllakf22db36mpaxqb0fxew&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/4tq82gbcu42sxq2mw49pa/MoonlightMaps-Sundial.zip?rlkey=i39g47t6wg342fwvpjpuzcxyg&dl=1"
+}

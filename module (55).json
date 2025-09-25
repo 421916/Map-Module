@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-secret-dungeon",
+  "title": "Moonlight Maps - Secret Dungeon",
+  "description": "<p>This module provides the Secret Dungeon map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Secret Dungeon",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/mr080f9ykzzqw4tjkud20/module.json?rlkey=0voi2212936i8492oyk5eww2t&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/l4sass06e4qctzjbfem8h/MoonlightMaps-SecretDungeon.zip?rlkey=f6x4sz4n3ui74mexh4iu0mnar&dl=1"
+}

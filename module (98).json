@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-creek-path",
+  "title": "Moonlight Maps - Creek Path",
+  "description": "<p>This module provides the Creek Path map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Creek Path",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/5aby9ipt2u00cy5pksqqu/module.json?rlkey=lnmg0dnqkh3clwpigttinrxo3&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/gm4egsdbhbp7z37kwcjpo/MoonlightMaps-CreekPath.zip?rlkey=tg9buiufhp3dph58h57o436mp&dl=1"
+}

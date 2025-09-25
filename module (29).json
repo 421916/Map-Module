@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-city-steps",
+  "title": "Moonlight Maps - City Steps",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the City Steps map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "name": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "name": "moonlight-maps-city-steps",
+      "label": "Moonlight Maps - City Steps",
+      "path": "packs/moonlight-maps-city-steps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/xynn4901z92wcbncex7g2/module.json?rlkey=ovvkrsyyl52vbs51vffn05i2v&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/9je34ncp514oei3grfgz6/MoonlightMaps-CitySteps.zip?rlkey=3nkt1tmkqfsp43p8yhba0z92c&dl=1"
+}

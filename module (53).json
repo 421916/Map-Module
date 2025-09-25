@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-mine-entrance",
+  "title": "Moonlight Maps - Mine Entrance",
+  "description": "<p>This module provides the Mine Entrance map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Mine Entrance",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/ykd37f0bibesdzbgu9jup/module.json?rlkey=ragnb13p2adt6aby79wxffse9&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/cxt4e6uifrkj1b48qs7oj/MoonlightMaps-MineEntrance.zip?rlkey=nimr5027pzqlic0e2mw8p6wik&dl=1"
+}

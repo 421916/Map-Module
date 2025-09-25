@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-battle-field",
+  "title": "Moonlight Maps - Battle Field",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the Battle Field map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "name": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "name": "moonlight-maps-battle-field",
+      "label": "Moonlight Maps - Battle Field",
+      "path": "packs/moonlight-maps-battle-field",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/ew3bk0jtdeq3wqim3tcxj/module.json?rlkey=8ivzcj5s2d9cwfm25jolvzc0y&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/tvyhxx6p2gsgwzx8gy6ld/MoonlightMaps-BattleField.zip?rlkey=owo853ytxty5m2q2u9cs2uho0&dl=1"
+}

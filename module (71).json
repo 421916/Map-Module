@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-dungeon-temple",
+  "title": "Moonlight Maps - Dungeon Temple",
+  "description": "<p>This module provides the Dungeon Temple map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Dungeon Temple",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/g2er65wp1y7akyknhvrdg/module.json?rlkey=trtzfuzages8rqca4jscylrch&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/nbnbdtvr93hdbwaltww3q/MoonlightMaps-DungeonTemple.zip?rlkey=72i8saxga5661z90hbfxgc5kg&dl=1"
+}

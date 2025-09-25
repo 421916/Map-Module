@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-cursed-desert",
+  "title": "Moonlight Maps - Cursed Desert",
+  "description": "<p>This module provides the Cursed Desert map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Cursed Desert",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/fanixr678q6c2qgdgq17k/module.json?rlkey=bjcrq12m7w83mr37ctu49fr7l&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/2yjhdd5a7pl0azbxvu4c1/MoonlightMaps-CursedDesert.zip?rlkey=cn6p1x8xcfw1z6xwbbpe8umxo&dl=1"
+}

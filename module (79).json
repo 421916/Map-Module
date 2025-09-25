@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-museum",
+  "title": "Moonlight Maps - Museum",
+  "description": "<p>This module provides the Museum map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "13"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Museum",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/vnfbxvltfrr7xh7oxmwnf/module.json?rlkey=py12nmyc7s3emnq9tirecsnu8&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/32z0hwng13gx6235mywdm/MoonlightMaps-Museum.zip?rlkey=avluh4qk5420ju0xym63pnghy&dl=1"
+}

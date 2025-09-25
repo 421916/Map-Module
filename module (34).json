@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-river-bridge",
+  "title": "Moonlight Maps - River Bridge",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the River Bridge map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "name": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "name": "moonlight-maps-river-bridge",
+      "label": "Moonlight Maps - River Bridge",
+      "path": "packs/moonlight-maps-river-bridge",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/3bkoxmgtay8igg18slz32/module.json?rlkey=knmotdi4yodu92v8evdvcjktq&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/g2pud6y0bfq0ffvl43n7r/MoonlightMaps-RiverBridge.zip?rlkey=lk265bq3ycd6nt96hrvxmh3xp&dl=1"
+}

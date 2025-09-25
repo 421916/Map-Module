@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-capital-market",
+  "title": "Moonlight Maps - Capital Market",
+  "description": "<p>This module provides the Capital Market map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Capital Market",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/jnhk94hxgzr3g5d6e8v0m/module.json?rlkey=djo8x447r4phagg7x041h6wob&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/bh3l8e40m8qx0lx16n6f5/MoonlightMaps-CapitalMarket.zip?rlkey=kc43lc4rhfr6a7eetrwcf8nlz&dl=1"
+}

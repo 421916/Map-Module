@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-hex-valley",
+  "title": "Moonlight Maps - Hex Valley",
+  "description": "<p>This module provides the Hex Valley map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Hex Valley",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/nc9zna0js985sthwlmnq6/module.json?rlkey=m7lpur4261klng0lkru5nfqkf&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/bgdgqo1d6piu703r989ed/MoonlightMaps-HexValley.zip?rlkey=md7igg7enyi2wvsv30e8lptbp&dl=1"
+}

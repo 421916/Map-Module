@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-creek-ruins",
+  "title": "Moonlight Maps - Creek Ruins",
+  "description": "<p>This module provides the Creek Ruins map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Creek Ruins",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/pqtibxhhry3d4oqffqabb/module.json?rlkey=g69tm4sd6h378q3elbdw35p7t&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/updde2o88ktcczolfqpdo/MoonlightMaps-CreekRuins.zip?rlkey=7mpjxatu2vjpc067ouwq5wpit&dl=1"
+}

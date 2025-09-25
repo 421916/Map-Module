@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-guild-hall",
+  "title": "Moonlight Maps - Guild Hall",
+  "description": "<p>This module provides the Guild Hall map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Guild Hall",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/ex8tbty7vsos7ibzvd65x/module.json?rlkey=ksm282y1rkyjmk2gqmefcys2i&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/3pphsz931xrlcnr6a7cv8/MoonlightMaps-GuildHall.zip?rlkey=yz89ip1k9ikv1k8nxj9wkuxw8&dl=1"
+}

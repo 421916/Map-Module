@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-shop-bazaar",
+  "title": "Moonlight Maps - Shop Bazaar",
+  "description": "<p>This module provides the Shop Bazaar map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Shop Bazaar",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/q70h8rw0k8n098tfs0gbk/module.json?rlkey=3pwd8sgio6o5o1k3v4nuwzlha&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/iq5r9t14q6qirrp86hapd/MoonlightMaps-ShopBazaar.zip?rlkey=6henqt6rwy7gl7khmoke1tyow&dl=1"
+}

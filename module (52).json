@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-ruined-temple-bridge",
+  "title": "Moonlight Maps - Ruined Temple Bridge",
+  "description": "<p>This module provides the Ruined Temple Bridge map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Ruined Temple Bridge",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/pvj6a8ovci8wp7sb6wbgt/module.json?rlkey=yd67fsneixuzjink9hsmpbhyn&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/8w6ymghkbakruju2u96x8/MoonlightMaps-RuinedTempleBridge.zip?rlkey=n4k2gzcfqw22km6c13xdc05n8&dl=1"
+}

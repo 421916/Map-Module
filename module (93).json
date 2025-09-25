@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-waterfall-cliff",
+  "title": "Moonlight Maps - Waterfall Cliff",
+  "description": "<p>This module provides the Waterfall Cliff map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Waterfall Cliff",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/omeip2h20ka0t0whjfsxg/module.json?rlkey=jo8w9qrr9ggxn3ej8tnxd4hwf&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/5ola4s1n5ko30vpzx9yx3/MoonlightMaps-WaterfallCliff.zip?rlkey=z0rfo1fh0wdl3bxw1bhxrk495&dl=1"
+}

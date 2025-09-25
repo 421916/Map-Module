@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-old-forest-shack",
+  "title": "Moonlight Maps - Old Forest Shack",
+  "description": "<p>This module provides the Old Forest Shack map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Old Forest Shack",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/sgyvrxnelsmbjx69rpis9/module.json?rlkey=hxfqeyol7xxl8z3jktaxa5may&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/6ovo6s0vmw30bavy1l1pt/MoonlightMaps-OldForestShack.zip?rlkey=qt8xs7rz0hgq806zsjg6gu1qm&dl=1"
+}

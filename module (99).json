@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-saloon",
+  "title": "Moonlight Maps - Saloon",
+  "description": "<p>This module provides the Saloon map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Saloon",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/a0f6ajad8esfyx4fdz8qe/module.json?rlkey=92ajzlv1ep64ze1kv2hl0dcbm&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/lfe1ml69zl6w3oh52kxea/MoonlightMaps-Saloon.zip?rlkey=95vyd1sf6wzch9dcye2kpbakg&dl=1"
+}

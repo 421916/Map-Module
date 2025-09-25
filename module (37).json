@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-mountain-village",
+  "title": "Moonlight Maps - Mountain Village",
+  "description": "<p>This module provides the Mountain Village map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Mountain Village",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/6wqrdifde392a99p64rjw/module.json?rlkey=t1b16zn1til6plnq4ehvllh1k&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/3acgg18i9d4dsvyi3dhhj/MoonlightMaps-MountainVillage.zip?rlkey=hajo9mxghppm89rl39429duh7&dl=1"
+}

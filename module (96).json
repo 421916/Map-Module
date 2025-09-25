@@ -1,0 +1,32 @@
+{
+  "id": "moonlight-maps-sacrificial-site",
+  "title": "Moonlight Maps - Sacrificial Site",
+  "description": "<p>This module provides the Sacrificial Site map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Moonlight Maps - Sacrificial Site",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/erox3wimg7ob3nmlpnd66/module.json?rlkey=pnjgpw6m3ca6b5sj1if48irdi&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/dfqok5akqmfd1ifh0wx9v/MoonlightMaps-SacrificialSite.zip?rlkey=uvq7od08efcy12y9fyql53qri&dl=1"
+}
