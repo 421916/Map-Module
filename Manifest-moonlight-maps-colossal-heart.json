@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-colossal-heart",
+  "title": "Moonlight Maps - Colossal Heart",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the Colossal Heart map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-colossal-heart",
+      "label": "Moonlight Maps - Colossal Heart",
+      "path": "packs/moonlight-maps-colossal-heart",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/9arx9qar1y76rbt83hccj/module.json?rlkey=i05hib5ke14pkgbrujmxk1xk4&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/b99e5r5gaz6uv1i1cy2ym/MoonlightMaps-ColossalHeart.zip?rlkey=qjlh0luurfldcoh10m4pylfvz&dl=1"
+}

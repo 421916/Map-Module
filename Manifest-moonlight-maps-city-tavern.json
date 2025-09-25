@@ -1,0 +1,22 @@
+{
+  "id": "moonlight-maps-city-tavern",
+  "title": "Moonlight Maps - City Tavern",
+  "description": "<p>This module provides the City Tavern map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - City Tavern",
+      "path": "/packs/moonlight-maps-city-tavern.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/igucz2knsy62zip/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/71do4vwibml0wkj/moonlight-maps-city-tavern.zip?dl=1"
+}

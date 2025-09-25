@@ -1,0 +1,22 @@
+{
+  "id": "moonlight-maps-forest-switch-maps",
+  "title": "Moonlight Maps - Forest Switch Maps",
+  "description": "<p>This module provides the Forest Switch Maps map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Forest Switch Maps",
+      "path": "/packs/moonlight-maps-forest-switch-maps.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/6u1pghbtd3mt3uh/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/9xlzavg8gfjtcv6/moonlight-maps-forest-switch-maps.zip?dl=1"
+}

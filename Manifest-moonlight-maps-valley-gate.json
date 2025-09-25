@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-valley-gate",
+  "title": "Moonlight Maps - Valley Gate",
+  "description": "<p>This module provides the Valley Gate map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Valley Gate",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/jyq3vsoqli2o3pibno1mu/module.json?rlkey=g6tqqxe3ud2w9m39115jvwlod&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/2u0r4wxh81mpwj5200z18/MoonlightMaps-ValleyGate.zip?rlkey=hozt5yirf3slzc3g5mrhxwyf9&dl=1"
+}

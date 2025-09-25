@@ -1,0 +1,22 @@
+{
+  "id": "moonlight-maps-hilltop-ritual",
+  "title": "Moonlight Maps - Hilltop Ritual",
+  "description": "<p>This module provides the Hilltop Ritual map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Hilltop Ritual",
+      "path": "/packs/moonlight-maps-hilltop-ritual.db",
+      "type": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/8emwbxn3cujzi0l/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/bxv4j91jm7ok6js/moonlight-maps-hilltop-ritual.zip?dl=1"
+}

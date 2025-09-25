@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-salt-flats",
+  "title": "Moonlight Maps - Salt Flats",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "This module provides the Salt Flats map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-salt-flats",
+      "label": "Moonlight Maps - Salt Flats",
+      "path": "packs/moonlight-maps-salt-flats",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/vavqzzyvl690k5thrph6x/module.json?rlkey=0243qtlqv5sjmbp96l3ktc8f5&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/wkne55787q4drpjm0u9xh/MoonlightMaps-SaltFlats.zip?rlkey=r8cld79drihkmiz4n5u17gxgd&dl=1"
+}

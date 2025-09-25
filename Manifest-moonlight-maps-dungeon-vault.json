@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-dungeon-vault",
+  "title": "Moonlight Maps - Dungeon Vault",
+  "description": "<p>This module provides the Dungeon Vault map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Dungeon Vault",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/kl96r7m741fp9tbmqbn7s/module.json?rlkey=z2p96x1hcosuj0fxyl0nqlytl&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/jy9g5635v2susfulb8nue/MoonlightMaps-DungeonVault.zip?rlkey=48snvap08lxomtv47dpxk95qw&dl=1"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-dungeon-prison",
+  "title": "Moonlight Maps - Dungeon Prison",
+  "description": "<p>This module provides the Dungeon Prison map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Dungeon Prison",
+      "path": "/Packs/moonlight-maps-dungeon-prison.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/g7gpbeavyk9thyc/Dungeon%20Prison.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/yu3j5j5xd6bn3na/module.json",
+  "download": "https://dl.dropbox.com/s/27p6k72847dxiwg/MoonlightMaps-DungeonPrison.zip"
+}

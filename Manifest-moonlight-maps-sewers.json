@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-sewers",
+  "title": "Moonlight Maps - Sewers",
+  "description": "<p>This module provides the Sewers map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Sewers",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/7r27q5u6kfc4r1tpskqe0/module.json?rlkey=3ci9q930k863oykexdqookld3&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/7qtbh1wh99omhpll46baj/MoonlightMaps-Sewers.zip?rlkey=q774om56dp5a7mzgn6ogvlu9k&dl=1"
+}

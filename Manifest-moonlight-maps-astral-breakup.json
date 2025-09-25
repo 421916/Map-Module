@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-astral-breakup",
+  "title": "Moonlight Maps - Astral Breakup",
+  "description": "<p>This module provides the Astral Breakup map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Astral Breakup",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/8ynfcyr98fsz6vvbpfftb/module.json?rlkey=kjogmxds13a2av3uj1spgap22&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/51dl2a37wbdzir0r99dmj/MoonlightMaps-AstralBreakup.zip?rlkey=ugjxbmcvg7yyj7c99rbp70pqf&dl=1"
+}

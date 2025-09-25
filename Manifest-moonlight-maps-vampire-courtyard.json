@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-vampire-courtyard",
+  "title": "Moonlight Maps - Vampire Courtyard",
+  "description": "<p>This module provides the Vampire Courtyard map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Vampire Courtyard",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/3hdg6ntu8yhy6p6bnsfcj/module.json?rlkey=nw9xh21g17accvihorpmcu5tp&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/silg62p0wi4txl2hxj5uc/MoonlightMaps-VampireCourtyard.zip?rlkey=x1aakcsccxar3fslgedh40uuv&dl=1"
+}

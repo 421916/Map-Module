@@ -1,0 +1,46 @@
+{
+  "id": "moonlight-maps-roadside-camp",
+  "title": "Moonlight Maps - Roadside Camp",
+  "description": "<p>This module provides the Roadside Camp map pack by Moonlight Maps. Maps are pre-configured with walls, dynamic lighting, and ambient sounds to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Roadside Camp",
+      "path": "/packs/moonlight-maps-roadside-camp.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "screenshot",
+      "url": "https://www.dropbox.com/s/fyky8c28ukvth6q/IMG_20200624_0828352.jpg?dl=1"
+    },
+    {
+      "type": "screenshot",
+      "url": "https://www.dropbox.com/s/tnbceao5gishyhy/IMG_20200624_082835.jpg?dl=1"
+    },
+    {
+      "type": "screenshot",
+      "url": "https://www.dropbox.com/s/o3pp1dsszbwwji4/IMG_20200624_0828353.jpg?dl=1"
+    },
+    {
+      "type": "cover",
+      "url": "https://www.dropbox.com/s/byivu9n4c3oph7k/Roadside%20camp.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "url": "https://youtu.be/pVRHHV7TYZY",
+      "loop": true,
+      "thumbnail": ""
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/e735ax282h76kj4/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/aafl2ufmv28qxd5/moonlight-maps-roadside-camp.zip?dl=1"
+}

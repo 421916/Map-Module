@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-temple-heart",
+  "title": "Moonlight Maps - Temple Heart",
+  "description": "<p>This module provides the Temple Heart map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Temple Heart",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/s/ctpthw4e770xhf0/module.json?dl=1",
+  "download": "https://www.dropbox.com/s/si40vjuq3z78qam/MoonlightMaps-TempleHeart.zip?dl=1"
+}

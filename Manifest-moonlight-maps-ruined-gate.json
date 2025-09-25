@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-ruined-gate",
+  "title": "Moonlight Maps - Ruined Gate",
+  "description": "<p>This module provides the Ruined Gate map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Ruined Gate",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/kji57fluyg11vfcre1a39/module.json?rlkey=yy9hbathmdjsanym3zertn4ur&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/i35vyjon6ryk5x2dujpfr/MoonlightMaps-RuinedGate.zip?rlkey=7tjeyjog8ep5hehq2w2oo8qhi&dl=1"
+}

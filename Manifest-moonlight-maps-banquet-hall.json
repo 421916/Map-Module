@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-banquet-hall",
+  "title": "Moonlight Maps - Banquet Hall",
+  "description": "<p>This module provides the Banquet Hall map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Banquet Hall",
+      "path": "/Packs/maps.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": ""
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://www.dropbox.com/scl/fi/ucg0qro47lbzulfctmk2n/module.json?rlkey=he16v7hf257015iye68niwqfk&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/hygwno8eq7m5bkhmm62vo/MoonlightMaps-BanquetHall.zip?rlkey=gnav4gduwc63mxzhfnxznncz3&dl=1"
+}

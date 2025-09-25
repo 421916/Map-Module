@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-dragons-lair",
+  "title": "Moonlight Maps - Dragon's Lair",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module provides the Dragon's Lair map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!",
+  "authors": [
+    {
+      "id": "Moonlight Maps",
+      "url": "https://www.patreon.com/MoonlightMaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "packs": [
+    {
+      "id": "moonlight-maps-dragons-lair",
+      "label": "Moonlight Maps - Dragon's Lair",
+      "path": "packs/moonlight-maps-dragons-lair",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/8sol3f1pyv54i86aais9c/module.json?rlkey=yco2ki8i324ydm46ut4n5nozs&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/9dpjn0dm7ug4adyo270l4/MoonlightMaps-DragonsLair.zip?rlkey=riyd7l7pat8l4nre7e2qqimo9&dl=1"
+}

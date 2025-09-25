@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-maps-mountain-gate",
+  "title": "Moonlight Maps - Mountain Gate",
+  "description": "<p>This module provides the Mountain Gate map pack by Moonlight Maps. Maps are pre-configured with walls and dynamic lighting to be game-ready, so you can jump right in to use them for your next adventure!</p>",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.261"
+  },
+  "author": "Moonlight Maps",
+  "packs": [
+    {
+      "id": "maps",
+      "label": "Moonlight Maps - Mountain Gate",
+      "path": "/Packs/moonlight-maps-mountain-gate.db",
+      "type": "Scene"
+    }
+  ],
+  "media": [
+    {
+      "type": "cover",
+      "link": "https://www.dropbox.com/s/n6c7tv5l6w4gnf9/Mountain%20Gate.jpg?dl=1"
+    },
+    {
+      "type": "video",
+      "link": "",
+      "loop": true
+    }
+  ],
+  "url": "https://www.patreon.com/MoonlightMaps",
+  "manifest": "https://dl.dropbox.com/s/syfx5jafpsr3fdl/module.json",
+  "download": "https://dl.dropbox.com/s/k9n9hbt27smghdo/MoonlightMaps-MountainGate.zip"
+}
